@@ -20,6 +20,7 @@ function inst() {
   else
 echo -e "${amarelo}Instalando script...${NORMAL}"
 sleep 2
+echo "Let's go the rock!!!!!"
 cd Knife-System
 cp -Rf knife /bin
 chmod +x /bin/knife
